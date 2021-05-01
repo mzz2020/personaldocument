@@ -1,7 +1,9 @@
 {
     "window.zoomLevel": 0,
     "editor.fontSize": 16,
+    "eslint.autoFixOnSave": true, // 保存时自动格式化
     "eslint.validate": [
+		"javascript",
         "typescript"
     ],
     "workbench.colorTheme": "Horizon Dark",
@@ -25,5 +27,17 @@
     "typescript.updateImportsOnFileMove.enabled": "always",
     "editor.quickSuggestions": {
         "strings": true
+    },
+    "vetur.format.defaultFormatterOptions": {
+        "prettier": {
+            "semi": true, // 去掉分号
+            "singleQuote": true // 将双引号转换成单引号
+        }
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
 }
