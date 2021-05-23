@@ -1,0 +1,49 @@
+/* 前端开发工具 */
+vscode
+
+// 微信小程序插件
+小程序助手
+Easy WXLESS
+minapp
+vscode weapp api
+vscode wxml
+WeApp Snippets
+Wechat App New Page
+WeApp Snippets
+Wechat App New Page
+wechat-snippet
+wxml
+
+//element-puls
+vscode-element-helper
+
+// vue/cli3
+Vetur
+
+// 格式插件
+ESLint
+Prettier - Code formatter
+
+// layui
+layui-vscode-plugin
+
+// 组件
+Tailwind CSS IntelliSense
+Vant Snippets
+Vant Typescript Snippets
+
+// 上传服务器
+SFTP
+
+// html 快捷
+HTML Snippets
+
+// 开发助手工具
+蓝湖 - 模型管理
+Saladict 沙拉查词 - 页面翻译
+禅道
+Github - 项目分支管理
+
+
+
+
